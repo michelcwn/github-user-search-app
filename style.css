@@ -283,6 +283,9 @@ a:hover {
   .main {
     max-width: 40rem;
   }
+  .user__social-item {
+    width: 100%;
+  }
 }
 @media (max-width: 400px) {
   .main {
